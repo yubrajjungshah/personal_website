@@ -21,7 +21,7 @@
 }
 
 .background-polygon {
-    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 83%);
+    background-color: black;
 }
 
 .background-polygon2 {
