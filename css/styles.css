@@ -1,0 +1,45 @@
+.site-head {
+    font-weight: 500;
+    letter-spacing: .063em;
+    color: #fff;
+    font-size: 1.75rem;
+}
+
+.site-menu {
+    color: #ababab;
+    font-family: "Rubik","Arial",sans-serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.heading2 {
+    padding-bottom: 15px;
+    border-bottom: 4px solid #f6f6f6;
+    color: #919191;
+    text-decoration: uppercase;
+    font-size: 1.5rem;
+}
+
+.background-polygon {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 83%);
+}
+
+.background-polygon2 {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 90%);
+}
+
+.heading3{
+    color: #919191;
+}
+
+.gray-stripes {
+    background-image: url(/images/stripes.JPG);
+    background-repeat: no-repeat;
+    background-color: #f6f6f6;
+    background-position: center;
+
+}
+
+.image-circle {
+    border-radius: 50%;
+}
